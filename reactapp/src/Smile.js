@@ -2,7 +2,8 @@
 function Smile() {
   return (
     <div>
-        <h1>Hello</h1>
+        <h1>Smile Component</h1>
+        <img alt="someimae"/>
     </div>
   );
 }
